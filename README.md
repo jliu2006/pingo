@@ -1,5 +1,6 @@
 # pingo
 Identifying Thermokarst Lakes in the Qinghai-Tibetan Plateau Using Discrete Wavelet Transform--Based Deep Learning
+
 By Olivia Liu, Andrew Li, and Jiahe Liu
 
 One of climate change’s less-visible consequences is rapid permafrost thaw
